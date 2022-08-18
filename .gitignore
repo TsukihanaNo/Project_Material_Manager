@@ -1,0 +1,11 @@
+#ignore these folders
+DB/
+reference/
+__pycache__/
+build/
+#ignore file
+setting.ini
+test.py
+db_inquiries.py
+
+.vscode
